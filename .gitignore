@@ -1,0 +1,7 @@
+#ignore for dotnet
+bin/
+obj/
+
+# ignore for js
+node_modules/
+

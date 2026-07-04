@@ -1,0 +1,14 @@
+{
+  "features": {
+    "ghcr.io/devcontainer-config/features/dot-config:4": {
+      "version": "4.0.0",
+      "resolved": "ghcr.io/devcontainer-config/features/dot-config@sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878",
+      "integrity": "sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878"
+    },
+    "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {
+      "version": "0.5.0",
+      "resolved": "ghcr.io/wxw-matt/devcontainer-features/script_runner@sha256:d5929e40891050a71375d151f1e15c9f96bef9bc242dc6dd67b9c44197c0f3a9",
+      "integrity": "sha256:d5929e40891050a71375d151f1e15c9f96bef9bc242dc6dd67b9c44197c0f3a9"
+    }
+  }
+}
