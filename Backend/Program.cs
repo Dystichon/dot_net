@@ -41,6 +41,9 @@ builder.Services.AddAuthorization();
 // In-memory user store (for demo purposes)
 builder.Services.AddSingleton<UserService>();
 
+// Weather service with HttpClient for Open-Meteo API
+builder.Services.AddHttpClient<WeatherService>();
+
 // Configure the app to listen on port 8080
 builder.WebHost.UseUrls("http://*:8080");
 

@@ -18,6 +18,9 @@ interface AuthResponse {
 interface WeatherData {
   temperature: number;
   place: string;
+  condition: string;
+  windSpeed: number;
+  windDirection: string;
 }
 
 // Store token in memory (in a real app, use localStorage with proper security)
